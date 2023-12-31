@@ -1,5 +1,5 @@
 import { Headings } from '../headings/headings'
-import { Text } from './contact-style'
+import { Text, Link } from './contact-style'
 
 /* eslint-disable react/react-in-jsx-scope */
 export function Contact() {
@@ -10,7 +10,8 @@ export function Contact() {
     <>
       <Headings title={title} subtitle={subtitle} />
       <Text>
-        The fastest way to get in touch with me is to send me a message on LinkedIn or Mail Me. 
+        The fastest way to get in touch with me is to send me a message on LinkedIn or 
+        <Link href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target={'_blank'} rel="noreferrer">Mail me</Link>
         Whether you have a question or just want to say hi, I&#39;ll try my best
         to get back to you.
       </Text>
