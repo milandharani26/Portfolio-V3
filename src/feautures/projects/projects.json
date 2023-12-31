@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AI Summerizer",
+    "githubUrl": "https://github.com/milandharani26/ai_summarizer",
+    "externalUrl": "https://ai-summarizer-blue.vercel.app/",
+    "languages": [ "Next.js", "TypeScript", "RapidAPI"]
+  },
+  {
+    "title": "CarHub",
+    "githubUrl": "https://github.com/milandharani26/car_hub",
+    "externalUrl": "https://car-hub-hazel-kappa.vercel.app/",
+    "languages": ["Next.js", "TypeScript", "RapidAPI", "Stripe"]
+  },
+    {
+    "title": "Shoped Dashboard",
+    "githubUrl": "https://github.com/milandharani26/dashboard_react",
+    "externalUrl": "https://dashboard-react-pi-gules.vercel.app/",
+    "languages": ["React", "TypeScript", "Firebase"]
+  },
+  {
+    "title": "Shushi Restorent",
+    "githubUrl": "https://github.com/milandharani26/shushi_restorent",
+    "externalUrl": "https://shushi-restorent.vercel.app/",
+    "languages": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Nike Landing page",
+    "githubUrl": "https://github.com/milandharani26/nike_landing_page",
+    "externalUrl": "https://nike-landing-page-ashen.vercel.app/",
+    "languages": ["React", "JavaScript", "Firebase"]
+  },
+  {
+    "title": "GPT Landing page",
+    "githubUrl": "https://github.com/milandharani26/GPT-3_landing-Page",
+    "externalUrl": "https://gpt-3-landing-page-eight.vercel.app/",
+    "languages": ["React", "JavaScript", "CSS"]
+  }
+]
