@@ -10,8 +10,8 @@ export function Contact() {
     <>
       <Headings title={title} subtitle={subtitle} />
       <Text>
-        The fastest way to get in touch with me is to send me a message on LinkedIn or 
-        <Link href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target={'_blank'} rel="noreferrer">Mail me</Link>
+        The fastest way to get in touch with me is to send me a message on LinkedIn or
+        <Link href="mailto:201260116052setiit@gmail.com" target={'_blank'} rel="noreferrer">Mail me</Link>
         Whether you have a question or just want to say hi, I&#39;ll try my best
         to get back to you.
       </Text>
